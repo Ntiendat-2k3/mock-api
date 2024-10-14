@@ -1,0 +1,559 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Phấn phủ ZEESEA kiềm dầu chống thấm nước",
+      "img": "https://s.net.vn/gA0M",
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/GHKO",
+        "https://s.net.vn/Kslo",
+        "https://s.net.vn/3N2w"
+      ],
+      "price": 119000,
+      "discount": [20, 50, 75],
+      "sold": 543,
+      "total": 1200,
+      "by-category": "Sắc Đẹp",
+      "promo": "Freeship Xtra",
+      "event": "10.10",
+      "status": "Mall",
+      "star": 5
+    },
+    {
+      "id": 2,
+      "name": "1 Chiếc Tulip In Ren Trang Trí Tóc Dây Cột",
+      "img": "https://s.net.vn/xp6S",
+      "price": 10000,
+      "relatedImages": [
+        "https://s.net.vn/xp6S",
+        "https://s.net.vn/xp6S",
+        "https://s.net.vn/xp6S",
+        "https://s.net.vn/xp6S"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 700,
+      "total": 1250,
+      "by-category": "Phụ Kiện & Trang Sức Nữ",
+      "promo": "Flash Sale",
+      "event": "08.05",
+      "status": "Yêu thích",
+      "star": 5
+    },
+    {
+      "id": 3,
+      "name": "Klaiien Mùa Hè 2024 Mới Nữ Màu Trơn Không Tay",
+      "img": "https://s.net.vn/2a1Z",
+      "price": 149000,
+      "relatedImages": [
+        "https://s.net.vn/2a1Z",
+        "https://s.net.vn/2a1Z",
+        "https://s.net.vn/2a1Z",
+        "https://s.net.vn/2a1Z"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 2000,
+      "total": 3750,
+      "by-category": "Thời Trang Nữ",
+      "promo": "",
+      "event": "",
+      "status": "Mall",
+      "star": 5
+    },
+    {
+      "id": 4,
+      "name": "[SBD 24-26.9] Bộ Sản Phẩm Làm Sạch Dịu Nhẹ Sữa Rửa Mặt 100ML & Dầu Tẩy Trang 100ML Sulwhasoo Double Cleansing Set",
+      "img": "https://s.net.vn/Gv2K",
+      "price": 1050000,
+      "relatedImages": [
+        "https://s.net.vn/Gv2K",
+        "https://s.net.vn/Gv2K",
+        "https://s.net.vn/Gv2K",
+        "https://s.net.vn/Gv2K"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 2000,
+      "total": 2050,
+      "by-category": "Sắc Đẹp",
+      "promo": "",
+      "event": "",
+      "status": "Mall",
+      "star": 5
+    },
+    {
+      "id": 5,
+      "name": "Váy Ren Trắng Dài Tay Body Chân Váy Xòe MELLYSTORE Đầm Bánh Bèo Chất Vải Ren Cao Cấp Đẹp Quyến Rũ ,Sang Trọng ( Kèm Hoa)",
+      "img": "https://s.net.vn/s8NC",
+      "price": 800000,
+      "relatedImages": [
+        "https://s.net.vn/s8NC",
+        "https://s.net.vn/s8NC",
+        "https://s.net.vn/s8NC",
+        "https://s.net.vn/s8NC"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 900,
+      "total": 2050,
+      "by-category": "Thời Trang Nữ",
+      "promo": "",
+      "event": "",
+      "status": "Mall",
+      "star": 5
+    },
+    {
+      "id": 6,
+      "name": "Ruo Bei Xuan Áo sweater Ngắn Lưng Cao Thời Trang Thu Đông Cho Nữ",
+      "img": "https://s.net.vn/Ze4e",
+      "price": 500000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 1200,
+      "total": 2050,
+      "by-category": "Thời Trang Nữ",
+      "promo": "",
+      "event": "",
+      "status": "Yêu thích",
+      "star": 5
+    },
+    {
+      "id": 7,
+      "name": "Sỉ 100 Cái Khẩu Trang 5D Thái - Khẩu Trang 5D 3 Lớp Kháng Khuẩn Người Lớn",
+      "img": "https://s.net.vn/t4uq",
+      "price": 106000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 1200,
+      "total": 2050,
+      "by-category": "Thời Trang Nữ",
+      "promo": "",
+      "event": "",
+      "status": "Yêu thích",
+      "star": 4.2
+    },
+    {
+      "id": 8,
+      "name": "Dâu tây sấy dẻo nguyên vị không đường Nhà Lá Đẹp Da Chống Lão Hóa",
+      "img": "https://s.net.vn/SoMN",
+      "price": 120000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 1200,
+      "total": 2050,
+      "by-category": "Thời Trang Nữ",
+      "promo": "",
+      "event": "",
+      "status": "Yêu thích",
+      "star": 4.7
+    },
+    {
+      "id": 9,
+      "name": "ÁO KAKI NỮ LỆCH VAI TAY DÀI PHỐI DÂY FFCLUB REDFLAG FORM RỘNG MIX",
+      "img": "https://s.net.vn/hesk",
+      "price": 389000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 558,
+      "total": 3278,
+      "by-category": "Gia Dụng",
+      "promo": "Buy 1 Get 1",
+      "event": "Xmas Sale",
+      "status": "Mall",
+      "star": 2
+    },
+    {
+      "id": 10,
+      "name": "Cocorygirl Quần áo nữ Hàn Quốc Áo thun lệch vai in tay dài dáng rộng ở cả hai bên và áo có thể đảo ngược",
+      "img": "https://s.net.vn/oPXB",
+      "price": 370000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 804,
+      "total": 1716,
+      "by-category": "Thực Phẩm",
+      "promo": "Flash Sale",
+      "event": "Black Friday",
+      "status": "Mall",
+      "star": 4
+    },
+    {
+      "id": 11,
+      "name": "kumikumi Áo hoodie dài tay in chữ cổ điển kiểu Mỹ dành cho nữ cotton nguyên chất mùa thu",
+      "img": "https://s.net.vn/BrTa",
+      "price": 120000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": [20, 50, 75],
+      "sold": 1256,
+      "total": 1954,
+      "by-category": "Điện Tử",
+      "promo": "Discount 50%",
+      "event": "New Year Sale",
+      "status": "Official",
+      "star": 2
+    },
+    {
+      "id": 12,
+      "name": "THU HÚT MAY MẮN / BẢO VỆ & BAN PHƯỚC CHO GIA ĐÌNH / TỌA PHU ĐỒNG TỬ / MAGIC OIL - by Leuviah 963Hz",
+      "img": "https://s.net.vn/T7HA",
+      "price": 555000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 1303,
+      "total": 713,
+      "by-category": "Sắc Đẹp",
+      "promo": "Freeship Xtra",
+      "event": "New Year Sale",
+      "status": "Local",
+      "star": 2
+    },
+    {
+      "id": 13,
+      "name": "YUSHANLAN áo phông áo thun nữ croptop baby tee Trendy Cổ điển Fashion Comfortable WSQ24802TX Z240807",
+      "img": "https://s.net.vn/ZZ20",
+      "price": 80000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 14,
+      "sold": 606,
+      "total": 1546,
+      "by-category": "Thời Trang",
+      "promo": "Flash Sale",
+      "event": "9.9",
+      "status": "Mall",
+      "star": 1
+    },
+    {
+      "id": 14,
+      "name": "Set áo sơ mi thêu nơ nhỏ kèm chân váy 2 tầng xixeoshop - V131",
+      "img": "https://s.net.vn/8dEp",
+      "price": 160000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 1047,
+      "total": 2643,
+      "by-category": "Sắc Đẹp",
+      "promo": "Flash Sale",
+      "event": "10.10",
+      "status": "Mall",
+      "star": 4.5
+    },
+    {
+      "id": 15,
+      "name": "1 Cặp Dạ Quang Mặt Trăng Mặt Trời Người Yêu Vòng Tay Bện - Vòng Tay Cặp Đôi Lãng Mạn Thời Trang - Quà Tặng Trang Sức Ngày Lễ Tình Nhân",
+      "img": "https://s.net.vn/vVuP",
+      "price": 350000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 24,
+      "sold": 616,
+      "total": 3560,
+      "by-category": "Sắc Đẹp",
+      "promo": "Flash Sale",
+      "event": "10.10",
+      "status": "Official",
+      "star": 2
+    },
+    {
+      "id": 16,
+      "name": "Món quà sinh nhật Cốc uống nước bằng gốm hình bánh dễ thương hình bánh 400ml DGB",
+      "img": "https://s.net.vn/c5V7",
+      "price": 100000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 35,
+      "sold": 1953,
+      "total": 3514,
+      "by-category": "Điện Tử",
+      "promo": "Buy 1 Get 1",
+      "event": "9.9",
+      "status": "Local",
+      "star": 3
+    },
+    {
+      "id": 17,
+      "name": "❤Phong Cách Hàn Quốc Ngọt Ngào Phong Cách Cay Nơ In Áo Thun Dài Tay Sling Đầm Hai Mảnh Phong Cách",
+      "img": "https://s.net.vn/o3GF",
+      "price": 220000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 12,
+      "sold": 476,
+      "total": 4628,
+      "by-category": "Sắc Đẹp",
+      "promo": "Flash Sale",
+      "event": "Xmas Sale",
+      "status": "Official",
+      "star": 1
+    },
+    {
+      "id": 18,
+      "name": "Lily of the Valley Tua Rua Kẹp Tóc Phụ Kiện Tóc Đầu Lưng Cổ Kẹp Tóc Nữ Kẹp Tóc Hoa Mùa Hè Cá Mập Kẹp",
+      "img": "https://s.net.vn/0I5G",
+      "price": 60000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 1953,
+      "total": 3514,
+      "by-category": "Điện Tử",
+      "promo": "Buy 1 Get 1",
+      "event": "9.9",
+      "status": "Local",
+      "star": 3
+    },
+    {
+      "id": 19,
+      "name": "Chính Hãng JK Đồng Phục Phù Hợp Với Nữ Sinh Đồng Phục Học Sinh Nguyên Chất Desire Phong Cách Áo Sơ Mi Eo Eo Ôm Hơn Nhìn JK Áo Sơ Mi Xếp Ly Váy Hai Mảnh Phù Hợp Với",
+      "img": "https://s.net.vn/5LEh",
+      "price": 200000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 606,
+      "total": 1546,
+      "by-category": "Thời Trang",
+      "promo": "Flash Sale",
+      "event": "9.9",
+      "status": "Mall",
+      "star": 1
+    },
+    {
+      "id": 20,
+      "name": "YUSHANLAN áo phông áo thun nữ croptop baby tee thời trang Comfortable phổ biến Stylish WCS24803B7",
+      "img": "https://s.net.vn/Gq8d",
+      "price": 170000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 1047,
+      "total": 2643,
+      "by-category": "Sắc Đẹp",
+      "promo": "Flash Sale",
+      "event": "10.10",
+      "status": "Mall",
+      "star": 2
+    },
+    {
+      "id": 21,
+      "name": "Biglady 1 Bộ Hoạt Hình Nhựa Nhỏ Vịt Vàng Mô Hình Ô Tô Bảng Điều Khiển Trung Tâm Trang Trí Xe Dễ Thương Đồ Trang Trí Nội Thất Ô Tô Bảng Điều Khiển Phụ Kiện Mới",
+      "img": "https://s.net.vn/WcIv",
+      "price": 150000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 25,
+      "sold": 616,
+      "total": 3560,
+      "by-category": "Mô Hình",
+      "promo": "Flash Sale",
+      "event": "10.10",
+      "status": "Official",
+      "star": 2
+    },
+    {
+      "id": 22,
+      "name": "Hàn Quốc Thời Trang Bướm Tua Rua Kẹp Phong Cách Cổ Cao Cấp Tinh Tế Cá Mập Kẹp Mũ",
+      "img": "https://s.net.vn/GGuG",
+      "price": 250000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 40,
+      "sold": 1953,
+      "total": 3514,
+      "by-category": "Điện Tử",
+      "promo": "Buy 1 Get 1",
+      "event": "9.9",
+      "status": "Local",
+      "star": 3
+    },
+    {
+      "id": 23,
+      "name": "Set quà tặng cốc tuy lip tặng bạn gái, cô giáo valentine14 tháng 2 , mồng 8 tháng 3 10xtimes",
+      "img": "https://s.net.vn/TX0z",
+      "price": 190000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 476,
+      "total": 4628,
+      "by-category": "Sắc Đẹp",
+      "promo": "Flash Sale",
+      "event": "Xmas Sale",
+      "status": "Official",
+      "star": 1
+    },
+    {
+      "id": 24,
+      "name": "OUDAIXIU áo sơ mi nữ áo kiểu hàn quốc Fashion thông thường rực rỡ may đo WCS2451BFN 22Z240527",
+      "img": "https://s.net.vn/q3pR",
+      "price": 300000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "sold": 1953,
+      "total": 3514,
+      "by-category": "Điện Tử",
+      "promo": "Buy 1 Get 1",
+      "event": "9.9",
+      "status": "Local",
+      "star": 3
+    },
+    {
+      "id": 25,
+      "name": "BUBUHSHM Hoạt Hình Sáng Tạo Thỏ Nhỏ Đèn Ngủ Phòng Ngủ Ins Phong Cách Cô Gái Trái Tim Đầu Giường Đèn Không Khí Trang Trí Ánh Sáng Quà Tặng Sinh Nhật Cho Nữ",
+      "img": "https://s.net.vn/qLwp",
+      "price": 49000,
+      "relatedImages": [
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M",
+        "https://s.net.vn/gA0M"
+      ],
+      "discount": 10,
+      "sold": 1953,
+      "total": 3514,
+      "by-category": "Điện Tử",
+      "promo": "Buy 1 Get 1",
+      "event": "9.9",
+      "status": "Yêu thích",
+      "star": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "imgBg": "https://s.net.vn/gpwz",
+      "category-title": "Sắc Đẹp"
+    },
+    {
+      "id": 2,
+      "imgBg": "https://s.net.vn/ow1y",
+      "category-title": "Phụ Kiện & Trang Sức Nữ"
+    },
+    {
+      "id": 3,
+      "imgBg": "https://s.net.vn/AYjb",
+      "category-title": "Thời Trang Nữ"
+    },
+    {
+      "id": 4,
+      "imgBg": "https://s.net.vn/1NaN",
+      "category-title": "Máy tính & Laptop"
+    },
+    {
+      "id": 5,
+      "imgBg": "https://s.net.vn/2EN8",
+      "category-title": "Nhà sách online"
+    },
+    {
+      "id": 6,
+      "imgBg": "https://s.net.vn/rucT",
+      "category-title": "Thời trang nam"
+    },
+    {
+      "id": 7,
+      "imgBg": "https://s.net.vn/bQdf",
+      "category-title": "Mô hình"
+    },
+    {
+      "id": 8,
+      "imgBg": "https://s.net.vn/NdB1",
+      "category-title": "Nhà sách 18+"
+    },
+    {
+      "id": 9,
+      "imgBg": "https://s.net.vn/bz7B",
+      "category-title": "Bách hóa online"
+    },
+    {
+      "id": 10,
+      "imgBg": "https://s.net.vn/NdB1",
+      "category-title": "Picture-X"
+    },
+    {
+      "id": 11,
+      "imgBg": "https://s.net.vn/1NuI",
+      "category-title": "Đồ chơi"
+    },
+    {
+      "id": 12,
+      "imgBg": "https://s.net.vn/fMSM",
+      "category-title": "Voucher & dịch vụ"
+    }
+  ]
+}
